@@ -1,0 +1,90 @@
+<html>
+<head>
+
+
+
+<link rel="stylesheet" types="text/css" href="style.css"></link>
+</head>
+<body>
+<div class="page">
+			<div class="headerpart"></div>
+			
+				<div class="linkspart">
+				
+			<center>		
+			<a href="#">Home</a>&nbsp&nbsp&nbsp&nbsp
+			<a href="#">About Us</a>&nbsp&nbsp&nbsp&nbsp
+			<a href="#">Acadamics</a>&nbsp&nbsp&nbsp&nbsp
+				<a href="#">Activities</a>&nbsp&nbsp&nbsp&nbsp
+			<a href="#">Contact</a>&nbsp&nbsp&nbsp&nbsp
+			<a href="#">Training</a>&nbsp&nbsp&nbsp&nbsp
+		</center>
+				
+				</div>
+			<div class="bodypart">
+			<div class="imagepart"></div>
+			<div class="newspart">
+			<h2> News & Events </h2>
+			<div class="news">
+			<marquee direction="up" height="100%">
+			<h3> Today off  </h3><br>
+			<hr>
+			<h4> Opening Hours: </h4>
+			
+			<p> 
+			
+				Monday: 9:00 AM – 5:00 PM<br>
+				Tuesday: 9:00 AM – 5:00 PM<br>
+				Wednesday: 9:00 AM – 5:00 PM<br>
+				Thursday: 9:00 AM – 5:00 PM<br><br>
+				Friday: Closed<br><br>
+				Saturday: 9:00 AM – 5:00 PM<br>
+				Sunday: 9:00 AM – 5:00 PM <br>
+				</p>
+				
+			</marquee>
+			
+			
+			
+			
+			</div>
+			
+			</div>			
+			
+			
+		
+				
+			<h2> History</h2>
+<p>Hashimpur m a k u high School  was established in 1967.  
+ Its present location at Hashimpur Railway station Road, near the Hashimpur Railway Station.
+ </p>			
+				
+			</
+			
+			
+			
+			
+			
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+</html>
